@@ -1,1 +1,2 @@
 # INFO450
+INFO 450 (Programming for Business Analytics) at VCU is a hands-on Python course designed to turn raw business data into actionable strategic insights. Taught within the School of Business, the course focuses on practical coding skills applicable to real-world careers, including cleaning complex datasets, identifying key trends, creating data visualizations, and building predictive models. Designed for upper-level students, it effectively bridges technical data analysis with high-level business strategy.
