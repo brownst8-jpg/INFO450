@@ -19,7 +19,7 @@ st.plotly_chart(fig)
 #show the barplot
 sales_per_city=df.groupby('City')['sales'].sum().reset_index()
 fig=px.bar(sales_per_city,x='City',y="sales",title="data is fun")
-st.ploty_chart(fig)
+st.plotly_chart(fig)
 
 #show data frame
 st.dataframe(df)
