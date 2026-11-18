@@ -7,6 +7,9 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 df = pd.read_csv(os.path.join(BASE_DIR, "Advertising_F.csv"))
 
+# App title with your name
+st.title("Advertising Effectiveness - Shayana Brown")
+
 st.sidebar.header("Filters")
 x_var=st.selectbox("X axis",["TV", "radio", "newspaper"])
 
